@@ -8,7 +8,7 @@ Please note that this project is released with a [Code of Conduct](https://githu
 
 ### Fork this repo
 
-[https://github.com/realstoman/react-tailwindcss-portfolio](https://github.com/realstoman/react-tailwindcss-portfolio)
+([https://github.com/mrdevil786/React-Portfolio](https://github.com/mrdevil786/React-Portfolio))
 
 ### Check the issues section if there are already issues and see if you can fix them
 
