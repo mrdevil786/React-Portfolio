@@ -23,7 +23,7 @@
 -   Download file button
 -   Simple and responsive design
 
-### To Contribute to this project, read the [Contribution Guidlines]([https://github.com/realstoman/react-tailwindcss-portfolio/blob/main/CONTRIBUTING.md](https://github.com/mrdevil786/React-Portfolio/blob/main/CONTRIBUTING.md))
+### To Contribute to this project, read the ([Contribution Guidlines](https://github.com/mrdevil786/React-Portfolio/blob/main/CONTRIBUTING.md))
 
 ## Setup
 
